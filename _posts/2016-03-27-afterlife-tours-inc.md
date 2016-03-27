@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Come, join us if You DARE!!!'
-datePublished: '2016-03-27T22:52:44.013Z'
-dateModified: '2016-03-27T22:52:39.243Z'
+datePublished: '2016-03-27T22:54:37.964Z'
+dateModified: '2016-03-27T22:54:35.408Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
@@ -25,7 +25,7 @@ _type: Article
 # Afterlife Tours, Inc.
 
 ## Specialists in Graveyard Tours
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3dc76f-f9c7-4e85-99bf-c3633a9e649b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/020fbcbc1b1319664222561d805b0eb1360687c5.jpg)
 
 ****
 
