@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Afterlife Tours]]></title>
         <description><![CDATA[Afterlife Tours]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/afterlife-tours/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 19:25:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 19:48:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/afterlife-tours/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Afterlife Tours]]></title>
-            <description><![CDATA[<article><h1>Afterlife Tours</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90d3a009-00bb-4d79-8537-92efa08449c5.jpg"></article>]]></description>
-            <link>undefinedafterlife-tours/index.html</link>
+            <description><![CDATA[<article><h1>Afterlife Tours</h1><p>Join Mike and John for a cemetery experience like no other!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a39c49414e0a8df517968147a181b55c876c3d4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/afterlife-tours/afterlife-tours/index.html</link>
             <guid isPermaLink="false">6de8658c-2f97-4b9f-8a52-d49f5d8e57b0</guid>
-            <pubDate>Sun, 27 Mar 2016 19:25:33 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 19:48:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
