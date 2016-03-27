@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Come, join us if You DARE!!!'
-datePublished: '2016-03-27T22:54:37.964Z'
-dateModified: '2016-03-27T22:54:35.408Z'
+datePublished: '2016-03-27T22:56:26.199Z'
+dateModified: '2016-03-27T22:56:20.058Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
