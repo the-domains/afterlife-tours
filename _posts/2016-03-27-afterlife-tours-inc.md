@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Come, join us if You DARE!!!'
-datePublished: '2016-03-27T23:07:48.637Z'
-dateModified: '2016-03-27T23:07:45.441Z'
+datePublished: '2016-03-27T23:32:13.807Z'
+dateModified: '2016-03-27T23:09:14.980Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: afterlife-tours-inc/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Afterlife Tours, Inc.
