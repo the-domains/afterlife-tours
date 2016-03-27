@@ -1,6 +1,6 @@
 name: Afterlife-Tours
 favicon: null
-layout_spectrum: 0.48415118874982
+layout_spectrum: 0.74714
 typography_spectrum: 0.05769
 title: Afterlife Tours
 cta:
@@ -24,6 +24,6 @@ color:
     - '#676765'
   brandStrength: 0.16574064549058676
   lightness: 0.540307821938768
-  saturation: 0.9199985300656408
+  saturation: 0
   rhythmicContrast: 0.2771800004411489
 purpose: []
