@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Specializing in Graveyard Tours
-datePublished: '2016-03-27T22:35:37.517Z'
-dateModified: '2016-03-27T22:35:37.138Z'
+datePublished: '2016-03-27T22:37:15.031Z'
+dateModified: '2016-03-27T22:36:55.366Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
