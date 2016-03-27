@@ -1,34 +1,34 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: 'Come join us, if you DARE'
-datePublished: '2016-03-27T22:46:52.740Z'
-dateModified: '2016-03-27T22:46:45.229Z'
+description: ''
+datePublished: '2016-03-27T22:51:01.045Z'
+dateModified: '2016-03-27T22:50:40.843Z'
 title: 'Afterlife Tours, Inc.'
 author: []
-sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-_type: Blurb
+sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
+published: true
+url: afterlife-tours-inc/index.html
+_type: Article
 
 ---
 # Afterlife Tours, Inc.
 
-# **_[Specialists in Graveyard Tours][0]_**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5947864-b304-4a74-bc70-67ab497573d9.jpg)
+## Specialists in Graveyard Tours
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3dc76f-f9c7-4e85-99bf-c3633a9e649b.jpg)
 
-**_Come join us, if you DARE_**
+**Come, join us if _You _DARE!!!**
 
-_Afterlife Tours is an Illinois Corporation_
+****
 
-[0]: null
+**_Afterlife Tours is an Illinois Corporation_**
