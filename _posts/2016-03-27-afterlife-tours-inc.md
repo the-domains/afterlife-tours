@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-27T22:23:30.813Z'
-dateModified: '2016-03-27T22:23:27.973Z'
+datePublished: '2016-03-27T22:30:05.890Z'
+dateModified: '2016-03-27T22:30:03.112Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
@@ -23,6 +23,12 @@ _type: Blurb
 
 ---
 # Afterlife Tours, Inc.
+
+**Specializing in Graveyard Tours**
+
+**Seeking answers to what happens after Death**
+
+**Come join us, if you DARE**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cec6bbc03cb743db7de5781b36cf45194633e53.jpg)
 
 ## North Aurora, Illinois
