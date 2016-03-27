@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-27T19:25:33.713Z'
-dateModified: '2016-03-27T19:25:14.890Z'
+description: 'Join Mike and John for a cemetery experience like no other!'
+datePublished: '2016-03-27T19:48:29.371Z'
+dateModified: '2016-03-27T19:48:06.254Z'
 title: Afterlife Tours
 author: []
+sourcePath: _posts/2016-03-27-afterlife-tours.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-afterlife-tours.md
-published: true
 url: afterlife-tours/index.html
 _type: Article
 
