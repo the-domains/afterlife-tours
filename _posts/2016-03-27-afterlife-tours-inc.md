@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: Seeking answers to what happens to us after Death
-datePublished: '2016-03-27T22:45:36.199Z'
-dateModified: '2016-03-27T22:45:27.245Z'
+description: 'Come join us, if you DARE'
+datePublished: '2016-03-27T22:46:52.740Z'
+dateModified: '2016-03-27T22:46:45.229Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
