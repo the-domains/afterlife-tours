@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-27T22:32:53.248Z'
-dateModified: '2016-03-27T22:32:45.911Z'
+description: Specializing in Graveyard Tours
+datePublished: '2016-03-27T22:35:37.517Z'
+dateModified: '2016-03-27T22:35:37.138Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
