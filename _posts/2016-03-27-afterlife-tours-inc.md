@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: 'North Aurora, Illinois'
-datePublished: '2016-03-27T21:40:34.611Z'
-dateModified: '2016-03-27T21:40:30.553Z'
+description: ''
+datePublished: '2016-03-27T21:41:58.506Z'
+dateModified: '2016-03-27T21:41:56.049Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
