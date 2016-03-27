@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-27T21:43:35.554Z'
-dateModified: '2016-03-27T21:43:13.394Z'
+datePublished: '2016-03-27T22:23:30.813Z'
+dateModified: '2016-03-27T22:23:27.973Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
