@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-27T22:51:01.045Z'
-dateModified: '2016-03-27T22:50:40.843Z'
+description: 'Come, join us if You DARE!!!'
+datePublished: '2016-03-27T22:51:25.722Z'
+dateModified: '2016-03-27T22:51:21.815Z'
 title: 'Afterlife Tours, Inc.'
 author: []
+sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
-published: true
 url: afterlife-tours-inc/index.html
 _type: Article
 
