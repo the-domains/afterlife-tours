@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Seeking answers to what happens after Death
-datePublished: '2016-03-27T22:43:15.233Z'
-dateModified: '2016-03-27T22:43:11.651Z'
+datePublished: '2016-03-27T22:43:58.637Z'
+dateModified: '2016-03-27T22:43:54.309Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 # Afterlife Tours, Inc.
 
-# **_[Specializing in Graveyard Tours][0]_**
+# **_[Specialists in Graveyard Tours][0]_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5947864-b304-4a74-bc70-67ab497573d9.jpg)
 
 **_Seeking answers to what happens to us after Death_**
