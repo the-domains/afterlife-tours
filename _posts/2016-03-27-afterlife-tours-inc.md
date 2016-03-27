@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'North Aurora, Illinois'
-datePublished: '2016-03-27T21:26:36.846Z'
-dateModified: '2016-03-27T21:26:36.527Z'
+datePublished: '2016-03-27T21:28:14.687Z'
+dateModified: '2016-03-27T21:27:49.394Z'
 title: 'Afterlife Tours, Inc.'
 author: []
 sourcePath: _posts/2016-03-27-afterlife-tours-inc.md
@@ -23,6 +23,6 @@ _type: Blurb
 
 ---
 # Afterlife Tours, Inc.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa729924-88b4-4fd2-9c39-e414e78930dd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/40efd58c0c7750b55c5182c99b2d2f4ec3a2ef43.jpg)
 
 **North Aurora, Illinois**
